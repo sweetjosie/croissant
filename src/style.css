@@ -1,0 +1,12 @@
+body {
+  background: #f8e8a6;
+  text-align: center;
+}
+footer {
+  margin: 0 10px;
+  color: green;
+}
+a {
+  cursor: pointer;
+  text-decoration: underline;
+}
